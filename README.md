@@ -1,6 +1,6 @@
 # Fashion-MNIST-Image-Classification
 
-This project:
+This project will:
 
 * Analyze the Fashion-MNIST dataset, consisting of over 70,000 images across ten categories, to
 develop a highly accurate image classification model.
